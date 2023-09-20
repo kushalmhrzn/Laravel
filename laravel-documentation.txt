@@ -1,4 +1,6 @@
-Laravel:
-		it is a web application framework with expressive, elegant syntx..
-		provides a structure and starting point for creating your application 
-		
+installation:
+1. firstly install composer, and xampp
+2. composer la laravel installation using command
+"composer global require laravel/installer
+"
+3. new project bhanauna "laravel new {project name withoutspace}"
